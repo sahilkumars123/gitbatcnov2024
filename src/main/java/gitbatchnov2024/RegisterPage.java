@@ -6,6 +6,10 @@ public class RegisterPage {
 		
 		
 		int i = 10;
+		
+		String country = "spain";
+		
+		System.out.println("this is my RegPage for cart page branch");
 	}
 
 }
