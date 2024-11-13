@@ -6,6 +6,9 @@ public class SearchPage {
 		System.out.println("this is my search page class");
 		
 		System.out.println("this is my modified comment in the SearchPage");
+		
+		System.out.println("this is my SearchPage for cart page branch");
+
 	}
 
 }
